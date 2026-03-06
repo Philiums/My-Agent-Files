@@ -97,6 +97,7 @@ Rate myself each session:
 - [ ] Scan r/LocalLLaMA, r/MachineLearning for trending tools
 - [ ] Check Hacker News "AI" tag for new releases
 - [ ] Review OpenClaw changelogs / skill updates
+- [ ] **Check heyron-ai/agent-library for new skills/resources**
 
 **Tool Drops:**
 - [ ] New skills in `/skills/` directory

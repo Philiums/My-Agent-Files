@@ -35,7 +35,8 @@
 1. **File Organization** — Downloads, screenshots, workspace cleanup
 2. **Git Sync** — Commit and push any changes
 3. **Memory Update** — Log morning developments to daily file
-4. **Inbox Triage** — Quick scan, flag urgent, archive noise
+4. **Agent Library Check** — Check heyron-ai/agent-library for new skills/resources
+5. **Inbox Triage** — Quick scan, flag urgent, archive noise
 
 ---
 
